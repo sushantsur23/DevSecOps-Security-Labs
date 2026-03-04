@@ -79,7 +79,8 @@ Key Topics Covered
 - Restricting resource consumption
 
 These practices significantly reduce container vulnerabilities while improving deployment efficiency.
-🎯 Purpose of This Repository
+
+### 🎯 Purpose of This Repository
 
 This repository serves as:
 - A DevSecOps learning reference
